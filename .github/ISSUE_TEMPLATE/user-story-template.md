@@ -1,9 +1,9 @@
 ---
 name: User story template
-about: Custome template for project user stories
+about: Custom template for project user stories
 title: ''
 labels: ''
-assignees: desireealexia
+assignees: ''
 
 ---
 
